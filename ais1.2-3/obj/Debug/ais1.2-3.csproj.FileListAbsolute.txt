@@ -1,0 +1,5 @@
+/Users/khasanov/RiderProjects/AIS/ais1.2-3/bin/Debug/ais1._2_3.exe
+/Users/khasanov/RiderProjects/AIS/ais1.2-3/bin/Debug/ais1._2_3.pdb
+/Users/khasanov/RiderProjects/AIS/ais1.2-3/obj/Debug/ais1.2-3.csprojAssemblyReference.cache
+/Users/khasanov/RiderProjects/AIS/ais1.2-3/obj/Debug/ais1._2_3.exe
+/Users/khasanov/RiderProjects/AIS/ais1.2-3/obj/Debug/ais1._2_3.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ais1.1", "ais1.1\ais1.1.csproj", "{01E3C1B7-3D1B-4D06-BD89-9460B7408826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ais1.2", "ais1.2\ais1.2.csproj", "{83A86EFD-49BB-4825-8834-FF43764C57B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ais1.2-3", "ais1.2-3\ais1.2-3.csproj", "{6A5AED96-9FE0-4711-87B2-41528075447C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E3C1B7-3D1B-4D06-BD89-9460B7408826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E3C1B7-3D1B-4D06-BD89-9460B7408826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E3C1B7-3D1B-4D06-BD89-9460B7408826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E3C1B7-3D1B-4D06-BD89-9460B7408826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A86EFD-49BB-4825-8834-FF43764C57B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A86EFD-49BB-4825-8834-FF43764C57B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A86EFD-49BB-4825-8834-FF43764C57B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A86EFD-49BB-4825-8834-FF43764C57B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5AED96-9FE0-4711-87B2-41528075447C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5AED96-9FE0-4711-87B2-41528075447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5AED96-9FE0-4711-87B2-41528075447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5AED96-9FE0-4711-87B2-41528075447C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

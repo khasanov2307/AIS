@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dishes>
+  <Dish id="1">
+    <name>Оливье</name>
+    <compound>Колбаса,яйцо,картофель,майонез</compound>
+    <weight>150</weight>
+    <price>250</price>
+  </Dish>
+  <Dish id="2">
+    <name>Винегрет</name>
+    <compound>Свекла,морковь,картофель,капуста</compound>
+    <weight>150</weight>
+    <price>200</price>
+  </Dish>
+  <Dish id="3">
+    <name>Картошка_с_мясом</name>
+    <compound>Картофель,мясо</compound>
+    <weight>300</weight>
+    <price>350</price>
+  </Dish>
+  <Dish id="4">
+    <name>Щи</name>
+    <compound>Картофель,капуста,мясо</compound>
+    <weight>350</weight>
+    <price>250</price>
+  </Dish>
+</Dishes>

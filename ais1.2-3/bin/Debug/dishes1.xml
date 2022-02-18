@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dishes>
+  <Dish id="1">
+    <name>GOVNO</name>
+    <compound>123</compound>
+    <weight>150</weight>
+    <price>300</price>
+  </Dish>
+  <Dish id="2">
+    <name>ZALUPA</name>
+    <compound>124</compound>
+    <weight>200</weight>
+    <price>150</price>
+  </Dish>
+</Dishes>
